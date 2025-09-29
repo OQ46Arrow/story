@@ -1,0 +1,12 @@
+The pituitary gland is divided into 3 lobes; the anterior, the posterior, and the intermediate lobe.
+
+The anterior lobe is also called adenohypophysis and is responsible for secreting FSH, LH, ACTH, TSH, prolactin, GH & B-endorphin. It is derived from the oral ectoderm also known as Rathke pouch.
+
+The hormones have an alpha subunit common to FSH, LH, TSH & BhCG.
+The beta subunit determines hormone specificity.
+
+The intermediate lobe secretes melanotropin stimulating hormone (MSH).
+
+The posterior pituitary gland is also called neurohypophysis and it is responsible for secreting vasopressin (ADH or anti-diuretic hormone) and oxytocin.
+These hormones are synthesized in the hypothalamus' supraoptic and paraventricular nuclei and transported to the posterior pituitary via the neurophysins which are carrier proteins.
+The posterior pituitary gland is derived from the neuroectoderm.
